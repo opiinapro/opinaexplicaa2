@@ -1,0 +1,60 @@
+@font-face {
+	font-family: 'Galano Grotesque Alt';
+	src: url('../fonts/GalanoGrotesqueAlt-Bold.eot');
+	src: url('../fonts/GalanoGrotesqueAlt-Bold.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/GalanoGrotesqueAlt-Bold.woff2') format('woff2'),
+	url('../fonts/GalanoGrotesqueAlt-Bold.woff') format('woff'),
+	url('../fonts/GalanoGrotesqueAlt-Bold.ttf') format('truetype'),
+	url('../images/GalanoGrotesqueAlt-Bold.svg#GalanoGrotesqueAlt-Bold') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Galano Grotesque Alt';
+	src: url('../fonts/GalanoGrotesqueAlt-Medium.eot');
+	src: url('../fonts/GalanoGrotesqueAlt-Medium.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/GalanoGrotesqueAlt-Medium.woff2') format('woff2'),
+	url('../fonts/GalanoGrotesqueAlt-Medium.woff') format('woff'),
+	url('../fonts/GalanoGrotesqueAlt-Medium.ttf') format('truetype'),
+	url('../images/GalanoGrotesqueAlt-Medium.svg#GalanoGrotesqueAlt-Medium') format('svg');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Galano Grotesque Alt';
+	src: url('../fonts/GalanoGrotesqueAlt-Regular.eot');
+	src: url('../fonts/GalanoGrotesqueAlt-Regular.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/GalanoGrotesqueAlt-Regular.woff2') format('woff2'),
+	url('../fonts/GalanoGrotesqueAlt-Regular.woff') format('woff'),
+	url('../fonts/GalanoGrotesqueAlt-Regular.ttf') format('truetype'),
+	url('../images/GalanoGrotesqueAlt-Regular.svg#GalanoGrotesqueAlt-Regular') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Galano Grotesque Alt';
+	src: url('../fonts/GalanoGrotesqueAlt-Light.eot');
+	src: url('../fonts/GalanoGrotesqueAlt-Light.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/GalanoGrotesqueAlt-Light.woff2') format('woff2'),
+	url('../fonts/GalanoGrotesqueAlt-Light.woff') format('woff'),
+	url('../fonts/GalanoGrotesqueAlt-Light.ttf') format('truetype'),
+	url('../images/GalanoGrotesqueAlt-Light.svg#GalanoGrotesqueAlt-Light') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Galano Grotesque Alt';
+	src: url('../fonts/GalanoGrotesqueAlt-ExtraLight.eot');
+	src: url('../fonts/GalanoGrotesqueAlt-ExtraLight.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/GalanoGrotesqueAlt-ExtraLight.woff2') format('woff2'),
+	url('../fonts/GalanoGrotesqueAlt-ExtraLight.woff') format('woff'),
+	url('../fonts/GalanoGrotesqueAlt-ExtraLight.ttf') format('truetype'),
+	url('../images/GalanoGrotesqueAlt-ExtraLight.svg#GalanoGrotesqueAlt-ExtraLight') format('svg');
+	font-weight: 100;
+	font-style: normal;
+}
